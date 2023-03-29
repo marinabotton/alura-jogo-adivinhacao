@@ -1,4 +1,4 @@
-## Jogo Adivinhação 🕹
+## Jogo da Adivinhação 🕹
 
 * Curso: **Python: Começando com a Linguagem** | ALURA | 12h
 
